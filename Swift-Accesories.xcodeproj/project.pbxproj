@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		045935312769FB6500028497 /* SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045935302769FB6500028497 /* SegmentedControl.swift */; };
+		04593533276A098100028497 /* DatePickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04593532276A098100028497 /* DatePickers.swift */; };
 		047A85442768C80F00F6B817 /* Swift_AccesoriesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A85432768C80F00F6B817 /* Swift_AccesoriesApp.swift */; };
 		047A85462768C80F00F6B817 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A85452768C80F00F6B817 /* ContentView.swift */; };
 		047A85482768C81200F6B817 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047A85472768C81200F6B817 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		045935302769FB6500028497 /* SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl.swift; sourceTree = "<group>"; };
+		04593532276A098100028497 /* DatePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickers.swift; sourceTree = "<group>"; };
 		047A85402768C80F00F6B817 /* Swift-Accesories.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Accesories.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		047A85432768C80F00F6B817 /* Swift_AccesoriesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_AccesoriesApp.swift; sourceTree = "<group>"; };
 		047A85452768C80F00F6B817 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				047A85492768C81200F6B817 /* Preview Content */,
 				047A85512768C8E700F6B817 /* PulseAnimation.swift */,
 				045935302769FB6500028497 /* SegmentedControl.swift */,
+				04593532276A098100028497 /* DatePickers.swift */,
 			);
 			path = "Swift-Accesories";
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				047A85522768C8E700F6B817 /* PulseAnimation.swift in Sources */,
 				045935312769FB6500028497 /* SegmentedControl.swift in Sources */,
 				047A85442768C80F00F6B817 /* Swift_AccesoriesApp.swift in Sources */,
+				04593533276A098100028497 /* DatePickers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
