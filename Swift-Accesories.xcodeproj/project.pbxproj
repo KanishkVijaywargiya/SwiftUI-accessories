@@ -11,6 +11,7 @@
 		047A85462768C80F00F6B817 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A85452768C80F00F6B817 /* ContentView.swift */; };
 		047A85482768C81200F6B817 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047A85472768C81200F6B817 /* Assets.xcassets */; };
 		047A854B2768C81200F6B817 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047A854A2768C81200F6B817 /* Preview Assets.xcassets */; };
+		047A85522768C8E700F6B817 /* PulseAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A85512768C8E700F6B817 /* PulseAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		047A85452768C80F00F6B817 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		047A85472768C81200F6B817 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		047A854A2768C81200F6B817 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		047A85512768C8E700F6B817 /* PulseAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulseAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				047A85452768C80F00F6B817 /* ContentView.swift */,
 				047A85472768C81200F6B817 /* Assets.xcassets */,
 				047A85492768C81200F6B817 /* Preview Content */,
+				047A85512768C8E700F6B817 /* PulseAnimation.swift */,
 			);
 			path = "Swift-Accesories";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				047A85462768C80F00F6B817 /* ContentView.swift in Sources */,
+				047A85522768C8E700F6B817 /* PulseAnimation.swift in Sources */,
 				047A85442768C80F00F6B817 /* Swift_AccesoriesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
