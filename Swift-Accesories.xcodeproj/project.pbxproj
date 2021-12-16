@@ -14,6 +14,7 @@
 		047A85482768C81200F6B817 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047A85472768C81200F6B817 /* Assets.xcassets */; };
 		047A854B2768C81200F6B817 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047A854A2768C81200F6B817 /* Preview Assets.xcassets */; };
 		047A85522768C8E700F6B817 /* PulseAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047A85512768C8E700F6B817 /* PulseAnimation.swift */; };
+		04A8A159276B6000001FA50D /* PresentingAlertActionSheetModals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A8A158276B6000001FA50D /* PresentingAlertActionSheetModals.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		047A85472768C81200F6B817 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		047A854A2768C81200F6B817 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		047A85512768C8E700F6B817 /* PulseAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulseAnimation.swift; sourceTree = "<group>"; };
+		04A8A158276B6000001FA50D /* PresentingAlertActionSheetModals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentingAlertActionSheetModals.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				047A85512768C8E700F6B817 /* PulseAnimation.swift */,
 				045935302769FB6500028497 /* SegmentedControl.swift */,
 				04593532276A098100028497 /* DatePickers.swift */,
+				04A8A158276B6000001FA50D /* PresentingAlertActionSheetModals.swift */,
 			);
 			path = "Swift-Accesories";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				045935312769FB6500028497 /* SegmentedControl.swift in Sources */,
 				047A85442768C80F00F6B817 /* Swift_AccesoriesApp.swift in Sources */,
 				04593533276A098100028497 /* DatePickers.swift in Sources */,
+				04A8A159276B6000001FA50D /* PresentingAlertActionSheetModals.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
