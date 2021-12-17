@@ -12,7 +12,8 @@ struct ContentView: View {
 //        PulseAnimation()
 //        SegmentedControl()
 //        DatePickers()
-        PresentingAlertActionSheetModals()
+//        PresentingAlertActionSheetModals()
+        HalfSheetModal()
     }
 }
 
